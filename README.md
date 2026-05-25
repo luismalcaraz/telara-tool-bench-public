@@ -1,2 +1,3 @@
-# telara-tool-bench-public
-Telara tool benchmark fixture
+# Telara Tool Benchmark
+
+Fixture repo for integration tool benchmarks.
